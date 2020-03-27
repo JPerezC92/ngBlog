@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 
-// @import url(https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css);
+@import url(https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css);
 @import "@angular/material/prebuilt-themes/deeppurple-amber.css";
 
 html,
@@ -19,22 +19,20 @@ body {
   border: 1px solid #f5f5f5;
 }
 
-.container-spinner{
-
+.container-spinner {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
-
 }
 
-.sport{
+.sport {
   background: rgba(0, 0, 255, 0.651) !important;
 }
-.life{
+.life {
   background: rgba(214, 63, 121, 0.808) !important;
 }
-.style{
+.style {
   background: rgb(141, 199, 87) !important;
 }
 
